@@ -1,0 +1,41 @@
+@import url('https://fonts.googleapis.com/css?family=Montserrat:600|Roboto+Slab|Titillium+Web');
+
+
+// Color definitions
+.accent {
+    background-color: #1a1a1a;
+    color: #ffffff;
+    }
+
+
+.brandcolor1 {
+    color: #ff3333;
+    }
+    
+.brandcolor2 {
+    color: #6666ff;
+    }
+    
+ .general-text {
+    color: #000000;
+    }
+
+
+.itembox .title {
+background-color: #00cccc;
+}
+
+  
+// Definitions by text type
+
+h1 {
+font-family: "Roboto Slab", serif;
+}
+
+h2, h3, h4, h5, h6 {
+font-family: 'Montserrat', sans-serif;
+}
+
+p {
+font-family: 'Titillium Web', sans-serif;
+}
